@@ -5,10 +5,10 @@
 		"async": "^2.6.0",
 		"bearcat-buffer": "0.1.x",
 		"crc": "0.2.0",
+		"meerkat-logger": "^1.0.0",
 		"mqtt-connection": "3.0.0",
 		"node-uuid": "1.4.0",
 		"pomelo-loader": "0.0.6",
-		"pomelo-logger": "0.1.7",
 		"stream-pkg": "0.0.5"
 	},
 	"devDependencies": {
